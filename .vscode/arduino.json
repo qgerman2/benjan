@@ -1,0 +1,5 @@
+{
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "sketch": "Banco_de_Ensayo_v7\\Banco_de_Ensayo_v7.ino"
+}
